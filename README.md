@@ -12,3 +12,8 @@
 4. Run command `pip install -r requirements.txt`
 5. Run command `python manage.py migrate`
 6. Run command `python manage.py runserver`
+
+## Project Documentation -
+[Video Demo](https://youtu.be/6UI_mCxcgDs)
+[Wireframes and Design Language](https://www.figma.com/file/amYdcrgeis9Y00BXpz4uV0/NYC-Accessible-Streets?type=design&node-id=1%3A13&mode=design&t=MXGRhkPHNNetlnsf-1)
+[More](https://claudiashao.wixsite.com/design/nycaccessiblestreets)
